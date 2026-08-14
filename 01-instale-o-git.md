@@ -17,11 +17,12 @@
 
 **Para que serve, e quando eu usaria:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+* Instalação do git no sistema operacional Windows.
+* Serve para instalar o git no sistema operacional Windows.
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+* Quando quiser instalar o git no seu Windows.
 
 ---
 
@@ -31,11 +32,12 @@
 
 **Para que serve, e quando eu usaria:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+* Instalação do git no sistema operacional MAC OS.
+* Serve para instalar o git no sistema operacional MAC OS.
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+* Quando quiser instalar o git no seu MAC OS.
 
 ---
 
@@ -45,19 +47,20 @@
 
 **Para que serve, e quando eu usaria:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+* Instalação do git no sistema operacional.
+* Serve para instalar o git no sistema operacional.
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+* Quando quiser instalar o git.
 
 ---
 
 ## Checklist deste arquivo
 
-- [ ] 1. GitHub para Windows
-- [ ] 2. GitHub para Mac
-- [ ] 3. Git para todas as plataformas
+- [x] 1. GitHub para Windows
+- [x] 2. GitHub para Mac
+- [x] 3. Git para todas as plataformas
 
 ---
 
