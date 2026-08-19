@@ -21,11 +21,11 @@ temp-*
 
 **O que este arquivo faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+* Adicionamos arquivos ou diretorios a serem ignorados pelo git.
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+* Quando nao queremos commitar algum arquivo/diretorios.
 
 ---
 
@@ -37,18 +37,18 @@ git ls-files --others --ignored --exclude-standard
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+* Lista arquivos a serem ignorados pelo gitignore
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+Quando se quer saber quais arquivos/diretorios estão sendo ignorados
 
 ---
 
 ## Checklist deste arquivo
 
-- [ ] 1. Arquivo `.gitignore`
-- [ ] 2. `git ls-files --others --ignored --exclude-standard`
+- [x] 1. Arquivo `.gitignore`
+- [x] 2. `git ls-files --others --ignored --exclude-standard`
 
 ---
 
