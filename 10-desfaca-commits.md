@@ -19,11 +19,11 @@ git reset [commit]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+* Move a branch de volta ao commit porem preserva as alterações
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+* Quando se deseja apontar para um commit sem perder as alterações
 
 ---
 
@@ -35,18 +35,18 @@ git reset --hard [commit]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+* Move a branch para o commit mas apaga o que veio de alteração depois
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+* Quando se deseja ir para um commit e descartar as alterações
 
 ---
 
 ## Checklist deste arquivo
 
-- [ ] 1. `git reset [commit]`
-- [ ] 2. `git reset --hard [commit]`
+- [x] 1. `git reset [commit]`
+- [x] 2. `git reset --hard [commit]`
 
 ---
 
